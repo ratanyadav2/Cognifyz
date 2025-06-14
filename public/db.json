@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david",
+      "password": "david11",
+      "email": "david@outlook.com"
+    },
+    {
+      "id": "fdfa",
+      "userid": "yash",
+      "password": "yash1234",
+      "email": "yash@nit.in"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Friend Birthday",
+      "date": "2025-05-20",
+      "userid": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Submit Project Document",
+      "date": "2025-05-21",
+      "userid": "david"
+    }
+  ]
+}
